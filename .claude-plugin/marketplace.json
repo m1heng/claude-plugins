@@ -15,6 +15,16 @@
         "url": "https://github.com/m1heng/claude-plugin-feishu.git"
       },
       "homepage": "https://github.com/m1heng/claude-plugin-feishu"
+    },
+    {
+      "name": "weixin",
+      "description": "WeChat (微信) channel for Claude Code — messaging bridge via iLink Bot API with built-in access control.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/m1heng/claude-plugin-weixin.git"
+      },
+      "homepage": "https://github.com/m1heng/claude-plugin-weixin"
     }
   ]
 }
